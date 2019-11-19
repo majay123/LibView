@@ -14,6 +14,7 @@
 		<Item Name="src" Type="Folder">
 			<Item Name="保存文件.vi" Type="VI" URL="../src/保存文件.vi"/>
 			<Item Name="panel.vi" Type="VI" URL="../src/panel.vi"/>
+			<Item Name="test.vi" Type="VI" URL="../src/test.vi"/>
 		</Item>
 		<Item Name="lf-condition.vi" Type="VI" URL="../lf-condition.vi"/>
 		<Item Name="依赖关系" Type="Dependencies">
@@ -22,6 +23,7 @@
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
+				<Item Name="LVComboBoxStrsAndValuesArrayTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVComboBoxStrsAndValuesArrayTypeDef.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="程序生成规范" Type="Build"/>

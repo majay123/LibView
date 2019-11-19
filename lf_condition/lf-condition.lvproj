@@ -12,11 +12,13 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="src" Type="Folder">
-			<Item Name="push-strlist-test.vi" Type="VI" URL="../src/push-strlist-test.vi"/>
 			<Item Name="保存文件.vi" Type="VI" URL="../src/保存文件.vi"/>
 			<Item Name="panel.vi" Type="VI" URL="../src/panel.vi"/>
 			<Item Name="test.vi" Type="VI" URL="../src/test.vi"/>
 			<Item Name="push-strlist.vi" Type="VI" URL="../src/push-strlist.vi"/>
+		</Item>
+		<Item Name="test" Type="Folder">
+			<Item Name="push-strlist-test.vi" Type="VI" URL="../src/push-strlist-test.vi"/>
 		</Item>
 		<Item Name="lf-condition.vi" Type="VI" URL="../lf-condition.vi"/>
 		<Item Name="依赖关系" Type="Dependencies">

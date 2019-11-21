@@ -15,6 +15,7 @@
 			<Item Name="保存文件.vi" Type="VI" URL="../src/保存文件.vi"/>
 			<Item Name="panel.vi" Type="VI" URL="../src/panel.vi"/>
 			<Item Name="test.vi" Type="VI" URL="../src/test.vi"/>
+			<Item Name="节点转换.vi" Type="VI" URL="../src/节点转换.vi"/>
 			<Item Name="push-strlist.vi" Type="VI" URL="../src/push-strlist.vi"/>
 			<Item Name="组合按键.vi" Type="VI" URL="../src/组合按键.vi"/>
 			<Item Name="模式插入节点.vi" Type="VI" URL="../src/模式插入节点.vi"/>

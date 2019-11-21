@@ -19,6 +19,11 @@
 			<Item Name="组合按键.vi" Type="VI" URL="../src/组合按键.vi"/>
 			<Item Name="模式插入节点.vi" Type="VI" URL="../src/模式插入节点.vi"/>
 			<Item Name="插入模式.vi" Type="VI" URL="../src/插入模式.vi"/>
+			<Item Name="模式树更新.vi" Type="VI" URL="../src/模式树更新.vi"/>
+			<Item Name="判断节点合法.vi" Type="VI" URL="../src/判断节点合法.vi"/>
+			<Item Name="情景列表删除.vi" Type="VI" URL="../src/情景列表删除.vi"/>
+			<Item Name="场景列表删除场景.vi" Type="VI" URL="../src/场景列表删除场景.vi"/>
+			<Item Name="模式删除节点.vi" Type="VI" URL="../src/模式删除节点.vi"/>
 		</Item>
 		<Item Name="test" Type="Folder">
 			<Item Name="push-strlist-test.vi" Type="VI" URL="../src/push-strlist-test.vi"/>

@@ -1,0 +1,33 @@
+[
+    {
+        "ID": "1",
+        "Name": "房灯",
+        "Attribute": "dev"
+    },
+    {
+        "ID": "2",
+        "Name": "廊灯",
+        "Attribute": "dev"
+    },
+    {
+        "ID": "3",
+        "Name": "顶灯",
+        "Attribute": "dev"
+    },
+    {
+        "ID": "4",
+        "Name": "灯带",
+        "Attribute": "dev"
+    },
+    {
+        "ID": "5",
+        "Name": "明亮",
+        "Attribute": "sce"
+    },
+    {
+        "ID": "6",
+        "Name": "睡眠",
+        "Attribute": "sce"
+    }
+]
+

@@ -16,9 +16,13 @@
 			<Item Name="panel.vi" Type="VI" URL="../src/panel.vi"/>
 			<Item Name="test.vi" Type="VI" URL="../src/test.vi"/>
 			<Item Name="push-strlist.vi" Type="VI" URL="../src/push-strlist.vi"/>
+			<Item Name="组合按键.vi" Type="VI" URL="../src/组合按键.vi"/>
+			<Item Name="模式插入节点.vi" Type="VI" URL="../src/模式插入节点.vi"/>
+			<Item Name="插入模式.vi" Type="VI" URL="../src/插入模式.vi"/>
 		</Item>
 		<Item Name="test" Type="Folder">
 			<Item Name="push-strlist-test.vi" Type="VI" URL="../src/push-strlist-test.vi"/>
+			<Item Name="测试-模式插入节点.vi" Type="VI" URL="../src/测试/测试-模式插入节点.vi"/>
 		</Item>
 		<Item Name="lf-condition.vi" Type="VI" URL="../lf-condition.vi"/>
 		<Item Name="依赖关系" Type="Dependencies">

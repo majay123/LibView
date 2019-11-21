@@ -1,0 +1,27 @@
+[
+    {
+        "ID": "1",
+        "Name": "窗帘",
+        "Attribute": "dev",
+        "Action": "open"
+    },
+    {
+        "ID": "2",
+        "Name": "窗帘",
+        "Attribute": "dev",
+        "Action": "close"
+    },
+    {
+        "ID": "3",
+        "Name": "纱帘",
+        "Attribute": "dev",
+        "Action": "opne"
+    },
+    {
+        "ID": "4",
+        "Name": "纱帘",
+        "Attribute": "dev",
+        "Action": "close"
+    }
+]
+

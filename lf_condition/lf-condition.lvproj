@@ -25,12 +25,18 @@
 			<Item Name="情景列表删除.vi" Type="VI" URL="../src/情景列表删除.vi"/>
 			<Item Name="场景列表删除场景.vi" Type="VI" URL="../src/场景列表删除场景.vi"/>
 			<Item Name="模式删除节点.vi" Type="VI" URL="../src/模式删除节点.vi"/>
+			<Item Name="未命名 2.vi" Type="VI" URL="../src/未命名 2.vi"/>
+			<Item Name="获取合法面板.vi" Type="VI" URL="../src/获取合法面板.vi"/>
+			<Item Name="显示场景面板.vi" Type="VI" URL="../src/显示场景面板.vi"/>
 		</Item>
 		<Item Name="test" Type="Folder">
 			<Item Name="push-strlist-test.vi" Type="VI" URL="../src/push-strlist-test.vi"/>
 			<Item Name="测试-模式插入节点.vi" Type="VI" URL="../src/测试/测试-模式插入节点.vi"/>
+			<Item Name="未命名 1.vi" Type="VI" URL="../src/未命名 1.vi"/>
 		</Item>
 		<Item Name="lf-condition.vi" Type="VI" URL="../lf-condition.vi"/>
+		<Item Name="模式插入面板.vi" Type="VI" URL="../src/模式插入面板.vi"/>
+		<Item Name="lf-condition-1122.vi" Type="VI" URL="../lf-condition-1122.vi"/>
 		<Item Name="依赖关系" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>

@@ -26,10 +26,12 @@
 			<Item Name="场景列表删除场景.vi" Type="VI" URL="../src/场景列表删除场景.vi"/>
 			<Item Name="模式删除节点.vi" Type="VI" URL="../src/模式删除节点.vi"/>
 			<Item Name="模式插入面板.vi" Type="VI" URL="../src/模式插入面板.vi"/>
+			<Item Name="模式删除面板.vi" Type="VI" URL="../src/模式删除面板.vi"/>
 			<Item Name="未命名 2.vi" Type="VI" URL="../src/未命名 2.vi"/>
 			<Item Name="获取合法面板.vi" Type="VI" URL="../src/获取合法面板.vi"/>
 			<Item Name="显示场景面板.vi" Type="VI" URL="../src/显示场景面板.vi"/>
 			<Item Name="获取合法节点列表.vi" Type="VI" URL="../src/获取合法节点列表.vi"/>
+			<Item Name="模式列表删除面板.vi" Type="VI" URL="../src/模式列表删除面板.vi"/>
 		</Item>
 		<Item Name="test" Type="Folder">
 			<Item Name="push-strlist-test.vi" Type="VI" URL="../src/push-strlist-test.vi"/>

@@ -20,6 +20,20 @@
 				<Item Name="pannel-to-devicelist.vi" Type="VI" URL="../src/build-device/pannel-to-devicelist.vi"/>
 				<Item Name="device-insert-info.vi" Type="VI" URL="../src/build-device/device-insert-info.vi"/>
 				<Item Name="devicelist-insert-info.vi" Type="VI" URL="../src/build-device/devicelist-insert-info.vi"/>
+				<Item Name="insert-cmd-to-dev.vi" Type="VI" URL="../src/build-device/insert-cmd-to-dev.vi"/>
+				<Item Name="dev-cmd-struct-add-info.vi" Type="VI" URL="../src/build-device/dev-cmd-struct-add-info.vi"/>
+				<Item Name="combine-info-to-cmd.vi" Type="VI" URL="../src/build-device/combine-info-to-cmd.vi"/>
+				<Item Name="device-to-devcmd.vi" Type="VI" URL="../src/build-device/device-to-devcmd.vi"/>
+			</Item>
+			<Item Name="build-scene" Type="Folder">
+				<Item Name="sort-sce-list.vi" Type="VI" URL="../src/build-scene/sort-sce-list.vi"/>
+				<Item Name="sort-pannel-list.vi" Type="VI" URL="../src/build-scene/sort-pannel-list.vi"/>
+				<Item Name="search-pannel-from-id.vi" Type="VI" URL="../src/build-scene/search-pannel-from-id.vi"/>
+				<Item Name="sces-to-cmd-str-final.vi" Type="VI" URL="../src/build-scene/sces-to-cmd-str-final.vi"/>
+				<Item Name="parse-sce-pannel-list.vi" Type="VI" URL="../src/build-scene/parse-sce-pannel-list.vi"/>
+				<Item Name="pannel-list-to-broadcaststring.vi" Type="VI" URL="../src/build-scene/pannel-list-to-broadcaststring.vi"/>
+				<Item Name="pannel-to-str.vi" Type="VI" URL="../src/build-scene/pannel-to-str.vi"/>
+				<Item Name="regu-sce-to-cmd.vi" Type="VI" URL="../src/build-scene/regu-sce-to-cmd.vi"/>
 			</Item>
 			<Item Name="保存文件.vi" Type="VI" URL="../src/保存文件.vi"/>
 			<Item Name="panel.vi" Type="VI" URL="../src/panel.vi"/>
@@ -36,7 +50,6 @@
 			<Item Name="模式删除节点.vi" Type="VI" URL="../src/模式删除节点.vi"/>
 			<Item Name="模式插入面板.vi" Type="VI" URL="../src/模式插入面板.vi"/>
 			<Item Name="模式删除面板.vi" Type="VI" URL="../src/模式删除面板.vi"/>
-			<Item Name="未命名 2.vi" Type="VI" URL="../src/未命名 2.vi"/>
 			<Item Name="获取合法面板.vi" Type="VI" URL="../src/获取合法面板.vi"/>
 			<Item Name="显示场景面板.vi" Type="VI" URL="../src/显示场景面板.vi"/>
 			<Item Name="获取合法节点列表.vi" Type="VI" URL="../src/获取合法节点列表.vi"/>
@@ -50,8 +63,6 @@
 		</Item>
 		<Item Name="lf-condition.vi" Type="VI" URL="../lf-condition.vi"/>
 		<Item Name="lf-condition-1122.vi" Type="VI" URL="../lf-condition-1122.vi"/>
-		<Item Name="未命名 3.vi" Type="VI" URL="../src/build-device/未命名 3.vi"/>
-		<Item Name="未命名 8.vi" Type="VI" URL="../src/build-device/未命名 8.vi"/>
 		<Item Name="依赖关系" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>

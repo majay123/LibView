@@ -101,7 +101,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{03E26DE7-F516-4961-8422-4041A4153D8B}</Property>
-				<Property Name="Bld_version.build" Type="Int">5</Property>
+				<Property Name="Bld_version.build" Type="Int">8</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">配置生成器.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/配置生成器/配置生成器.exe</Property>
@@ -111,7 +111,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/配置生成器/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/我的电脑/z.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{8C7663F4-7E97-41EE-8CB7-4061EF056D30}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{F4918BF5-6DB7-45B9-B85D-6A94401CD8D0}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/我的电脑/lf-condition-1122.vi</Property>
@@ -197,7 +197,7 @@
 				<Property Name="INST_installerName" Type="Str">install.exe</Property>
 				<Property Name="INST_language" Type="Int">2052</Property>
 				<Property Name="INST_productName" Type="Str">配置生成器</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.4</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.6</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">19018000</Property>
 				<Property Name="MSI_autoselectDrivers" Type="Bool">true</Property>

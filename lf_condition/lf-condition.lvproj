@@ -60,6 +60,7 @@
 			<Item Name="获取合法节点列表.vi" Type="VI" URL="../src/获取合法节点列表.vi"/>
 			<Item Name="模式列表删除面板.vi" Type="VI" URL="../src/模式列表删除面板.vi"/>
 			<Item Name="字符串数组拼接.vi" Type="VI" URL="../src/字符串数组拼接.vi"/>
+			<Item Name="更新面板列表到树.vi" Type="VI" URL="../src/更新面板列表到树.vi"/>
 		</Item>
 		<Item Name="test" Type="Folder">
 			<Item Name="push-strlist-test.vi" Type="VI" URL="../src/push-strlist-test.vi"/>
@@ -101,7 +102,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{03E26DE7-F516-4961-8422-4041A4153D8B}</Property>
-				<Property Name="Bld_version.build" Type="Int">8</Property>
+				<Property Name="Bld_version.build" Type="Int">14</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">配置生成器.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/配置生成器/配置生成器.exe</Property>
@@ -111,7 +112,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/配置生成器/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/我的电脑/z.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{F4918BF5-6DB7-45B9-B85D-6A94401CD8D0}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{169E96A9-F1F5-4952-BE79-0D605F0F6A37}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/我的电脑/lf-condition-1122.vi</Property>
@@ -197,7 +198,7 @@
 				<Property Name="INST_installerName" Type="Str">install.exe</Property>
 				<Property Name="INST_language" Type="Int">2052</Property>
 				<Property Name="INST_productName" Type="Str">配置生成器</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.6</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.9</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">19018000</Property>
 				<Property Name="MSI_autoselectDrivers" Type="Bool">true</Property>
